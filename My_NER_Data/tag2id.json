@@ -1,0 +1,1 @@
+{'B-corporation': 1, 'B-creative-work': 2, 'B-group': 3, 'B-location': 4, 'B-person': 5, 'B-product': 6, 'I-corporation': 7, 'I-creative-work': 8, 'I-group': 9, 'I-location': 10, 'I-person': 11, 'I-product': 12, 'O': 13, '[SEP]': 17, '[CLS]': 16, '[PAD]': 18, '[UNK]': 15, 'Sub_Token': 14}
